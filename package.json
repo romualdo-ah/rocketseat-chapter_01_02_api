@@ -1,0 +1,17 @@
+{
+  "name": "rocketseat-chapter_01_02_api",
+  "version": "1.0.0",
+  "description": "Chapter 1 challenge 2 api",
+  "main": "index.js",
+
+  "scripts":{
+    "start":"json-server server.json -p 3333"
+  },
+  "repository": "https://github.com/romualdo-ah/rocketseat-chapter_01_02_api.git",
+  "author": "romualdoah@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
