@@ -5,7 +5,9 @@ Para ver video clique na seguinte imagem
 [![Deploying Json Server on Heroku](https://img.youtube.com/vi/FLnxgSZ0DG4/maxresdefault.jpg)](https://youtu.be/FLnxgSZ0DG4)
 
 # OU
-1- Clone este <a href="https://github.com/romualdo-ah/rocketseat-chapter_01_02_api">repositorio</a>.
+1- Clone este <a href="https://github.com/romualdo-ah/rocketseat-chapter_01_02_api">repositorio</a>. 
+
+      git clone https://github.com/romualdo-ah/rocketseat-chapter_01_02_api.git
 
 2- Na pasta do repositorio clonado, abra o Terminal.
 
