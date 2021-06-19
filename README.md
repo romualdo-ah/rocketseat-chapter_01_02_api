@@ -1,6 +1,6 @@
 ﻿# rocketseat-chapter_01_02_api
 
-## Passos para fazer deploy no Heroku
+## Passos para fazer deploy de Json-Server no Heroku
 Para ver video clique na seguinte imagem
 [![Deploying Json Server on Heroku](https://img.youtube.com/vi/FLnxgSZ0DG4/maxresdefault.jpg)](https://youtu.be/FLnxgSZ0DG4)
 
