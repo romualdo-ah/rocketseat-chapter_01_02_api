@@ -15,7 +15,7 @@ Para ver video clique na seguinte imagem
 
 4- Modifique a data de server.json com sua data.
 
-5- Tenha certeza de ter na raiz do projeto o arquivo .gitignore com o conteúdo node_modules
+5- Tenha certeza de ter na raiz do projeto o arquivo .gitignore com o conteúdo node_modules.
 
 6- Pushe o projeto com os seguintes comandos: 
       
@@ -25,7 +25,7 @@ Para ver video clique na seguinte imagem
       
     git push
       
-7- Instale heroku cli no seu computador. Seguir os passos de instalação nesse <a href="https://devcenter.heroku.com/articles/heroku-cli">Link</a>
+7- Instale heroku CLI no seu computador. Seguir os passos de instalação nesse <a href="https://devcenter.heroku.com/articles/heroku-cli">Link</a>
 
 8- Na pasta do seu repositorio clonado, escreva o comando:
     
